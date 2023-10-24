@@ -1,0 +1,122 @@
+[
+    {
+      "id": "1",
+      "accountNumber": "CD123456",
+      "balance": 5000.00,
+      "owner": "Jean Dupont",
+      "address": "1234 Elm Street",
+      "postalCode": "H2J 1A1"
+    },
+    {
+      "id": "2",
+      "accountNumber": "CD234567",
+      "balance": 3500.50,
+      "owner": "Marie Lefebvre",
+      "address": "5678 Oak Avenue",
+      "postalCode": "H3K 2B2"
+    },
+    {
+      "id": "3",
+      "accountNumber": "CD345678",
+      "balance": 7500.25,
+      "owner": "Pierre Tremblay",
+      "address": "9101 Maple Lane",
+      "postalCode": "H4M 3C3"
+    },
+    {
+      "id": "4",
+      "accountNumber": "CD456789",
+      "balance": 4200.75,
+      "owner": "Isabelle Martin",
+      "address": "2468 Birch Road",
+      "postalCode": "H2S 4D4"
+    },
+    {
+      "id": "5",
+      "accountNumber": "CD567890",
+      "balance": 6800.00,
+      "owner": "Michel Gagnon",
+      "address": "1357 Pine Drive",
+      "postalCode": "H3T 5E5"
+    },
+    {
+      "id": "6",
+      "accountNumber": "CD678901",
+      "balance": 3200.75,
+      "owner": "Sophie Roy",
+      "address": "8642 Cedar Boulevard",
+      "postalCode": "H4R 6F6"
+    },
+    {
+      "id": "7",
+      "accountNumber": "CD789012",
+      "balance": 5600.25,
+      "owner": "Jacques Girard",
+      "address": "3579 Willow Way",
+      "postalCode": "H2U 7G7"
+    },
+    {
+      "id": "8",
+      "accountNumber": "CD890123",
+      "balance": 4300.50,
+      "owner": "Élise Bouchard",
+      "address": "6820 Spruce Court",
+      "postalCode": "H3V 8H8"
+    },
+    {
+      "id": "9",
+      "accountNumber": "CD901234",
+      "balance": 4900.00,
+      "owner": "Luc Dubois",
+      "address": "1925 Sycamore Place",
+      "postalCode": "H4W 9I9"
+    },
+    {
+      "id": "10",
+      "accountNumber": "CD012345",
+      "balance": 3200.25,
+      "owner": "Sylvie Caron",
+      "address": "4356 Redwood Lane",
+      "postalCode": "H2X 0J0"
+    },
+    {
+      "id": "11",
+      "accountNumber": "CD123450",
+      "balance": 4200.75,
+      "owner": "Robert Beaulieu",
+      "address": "7890 Poplar Street",
+      "postalCode": "H3Y 1K1"
+    },
+    {
+      "id": "12",
+      "accountNumber": "CD234501",
+      "balance": 2800.50,
+      "owner": "Nathalie Poirier",
+      "address": "3267 Sequoia Drive",
+      "postalCode": "H4Z 2L2"
+    },
+    {
+      "id": "13",
+      "accountNumber": "CD345612",
+      "balance": 6500.00,
+      "owner": "Yves Lemieux",
+      "address": "5731 Cherry Circle",
+      "postalCode": "H2A 3M3"
+    },
+    {
+      "id": "14",
+      "accountNumber": "CD456123",
+      "balance": 5300.25,
+      "owner": "Brigitte Leblanc",
+      "address": "9512 Magnolia Avenue",
+      "postalCode": "H3B 4N4"
+    },
+    {
+      "id": "15",
+      "accountNumber": "CD561234",
+      "balance": 3700.50,
+      "owner": "André Dion",
+      "address": "2143 Dogwood Road",
+      "postalCode": "H4C 5O5"
+    }
+]
