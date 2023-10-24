@@ -46,11 +46,3 @@ This project is a web application that leverages MongoDB Atlas as the database, 
 5. Access the Application:
    - Open your web browser and access the application at `http://localhost:3000`.
    - Ensure that the frontend communicates with the backend without CORS issues.
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Mention any libraries, packages, or tutorials that you used or were inspired by while working on this project.
